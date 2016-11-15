@@ -1,0 +1,13 @@
+#show-populate-status-wrap {
+	margin: 0;
+    padding: 8px 20px 12px;
+    position: relative;
+}
+.wapci-container .wapci-left {
+    width: 240px;
+    background: blue;
+    float: left;
+}
+.wapci-container .wapci-right {
+    background: red;
+}
